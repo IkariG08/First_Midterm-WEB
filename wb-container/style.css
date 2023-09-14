@@ -1,0 +1,306 @@
+body {
+    color: #4c545d;
+    font-family: 'Bai Jamjuree', sans-serif;
+    background-color: white;
+    max-width: 1440px;
+}
+
+p{
+    color:#9fabb2;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.logo_container{
+    position: absolute;
+    top:110px;
+    left: 45%;
+}
+
+.computah img{
+    position: absolute;
+    top:950px;
+    left:-50px;
+    width: 800px;
+    height: 600px;
+}
+
+.devices1 img{
+    position: absolute;
+    top:1850px;
+    width: 900px;
+    height: 600px;
+    left: 17%;
+}
+
+.header_info{
+    position: relative;
+    top:270px;
+    text-align: center; 
+}
+
+.header_info p{
+    font-size: 22px;
+}
+
+.header_info h1{
+    font-size: 45px;
+    margin-bottom: -5px;
+}
+
+.header_info2{
+    position: relative;
+    top:500px;
+    text-align: center;
+    
+}
+
+.header_info2 h1{
+    font-size: 38px;
+}
+
+.header_info3{
+    position: relative;
+    top:880px;
+    text-align: center;
+    
+}
+
+.header_info3 h1{
+    font-size: 38px;
+}
+
+.header_info4{
+    position: relative;
+    top:1600px;
+    text-align: center;
+    
+}
+
+.header_info5{
+    position: relative;
+    top:2220px;
+    text-align: center;
+}
+
+.header_info5 h1{
+    font-size: 36px;
+}
+
+.iosdiv{
+    position: absolute;
+    top:470px;
+    left:490px;
+    display: inline-block;
+    border-radius: 50px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    background-color: #26baa4 ;
+    box-shadow: 1px 5px 5px lightblue;
+    cursor:pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+.iosdiv:hover{
+    background-color: #2bd3ba ; 
+    color: #fff;
+    box-shadow: 0 0 10px rgba(41, 141, 188, 0.5); 
+}
+
+.macdiv{
+    position: absolute;
+    top:470px;
+    left:740px;
+    display: inline-block;
+    border-radius: 50px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    background-color: #6173ff ;
+    box-shadow: 1px 5px 5px lightblue;
+    cursor:pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+.macdiv:hover{
+    background-color: #8190ff ; 
+    color: #fff; 
+    box-shadow: 0 0 10px rgba(41, 141, 188, 0.5); 
+}
+
+.iosdiv2{
+    position: absolute;
+    top:3520px;
+    left:490px;
+    display: inline-block;
+    border-radius: 50px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    background-color: #26baa4 ;
+    box-shadow: 1px 5px 5px lightblue;
+    cursor:pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+.iosdiv2:hover{
+    background-color: #2bd3ba ; 
+    color: #fff; 
+    box-shadow: 0 0 10px rgba(41, 141, 188, 0.5); 
+}
+
+.macdiv2{
+    position: absolute;
+    top:3520px;
+    left:740px;
+    display: inline-block;
+    border-radius: 50px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    background-color: #6173ff ;
+    box-shadow: 1px 5px 5px lightblue;
+    cursor:pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+.macdiv2:hover{
+    background-color: #8190ff ; 
+    color: #fff; 
+    box-shadow: 0 0 10px rgba(41, 141, 188, 0.5); 
+}
+
+
+.elements1{
+    position: relative;
+    top:670px;
+    left:830px;
+    margin-top: -50px;
+    margin-right: 800px;
+}
+
+.elements1 h2{
+    margin-bottom: 15px;
+}
+
+.elements1 p{
+    margin-top: -10px;
+    margin-bottom: -3px;
+}
+
+.blacklists{
+    position: absolute;
+    top:2700px;
+    padding-left: 70px;
+    text-align: center;
+    display: inline-block;
+    margin-right: -10px;
+    margin-left: 50px;
+}
+
+.snippets{
+    position: absolute;
+    top:2710px;
+    left:37%;
+    text-align: center;
+    display: inline-block;
+}
+
+.sneak{
+    position: absolute;
+    top:2710px;
+    left:65%;
+    text-align: center;
+    display: inline-block;
+    margin-left: -50px;
+}
+
+.companies{
+    position:absolute;
+    top:3100px;
+    left:12%;
+}
+
+.companies img+img{
+    margin-left: 100px;
+}
+
+.foot{
+    position: absolute;
+    top:520%;
+    background-color: whitesmoke;
+    width: 1440px;
+    height:190px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.first{
+    top:40px;
+    position: absolute;
+    display: inline-block;
+    left:330px;
+    cursor:pointer;
+}
+
+.hoverfaq:hover{
+    color:#26baa4;
+}
+
+.hovercont:hover{
+    color:#26baa4;
+}
+
+.hoverpriv:hover{
+    color:#26baa4;
+}
+
+.hoverpress:hover{
+    color:#26baa4;
+}
+
+.hoverinst:hover{
+    color:#26baa4;
+}
+
+.second{
+    top:40px;
+    position: absolute;
+    display: inline-block;
+    left:530px;
+    cursor:pointer;
+}
+
+.third{
+    top:40px;
+    position: absolute;
+    display: inline-block;
+    left:730px;
+    cursor:pointer;
+}
+
+
+.small_logo img{
+    padding-top: 70px;
+    padding-left: 150px;
+    width: 70px;
+    height: 70px;
+}
+
+.icons{
+    text-align: right;
+    margin-top: -50px;
+    padding-right: 200px;
+    cursor: pointer;
+    color:gray;
+}
+
+.icon:hover{
+    color:#26baa4;
+}
+
+.icons svg+svg{
+    margin-left: 20px;
+}
+
